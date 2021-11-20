@@ -97,7 +97,7 @@ Para rodar migrations no banco de dados e popular os dados
 
 - ## Mensagems de uma sala especifica
   ## GET: /rooms/:room_id
-  ### No headers
+  ### Sem headers
   ```json
   {}
   ```
