@@ -1,0 +1,1 @@
+docker exec -i -t marttech-teste-api-1 sh -c "yarn migration:run"

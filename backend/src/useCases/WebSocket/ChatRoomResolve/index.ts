@@ -1,0 +1,1 @@
+const FindMessagesOfRoomByName = (room: string) => {};
